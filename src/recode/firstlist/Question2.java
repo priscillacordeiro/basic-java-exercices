@@ -5,6 +5,11 @@ import java.util.Scanner;
 public class Question2 {
 
 	public static void main(String[] args) {
+		
+		/*
+		 * Escreva um programa que receba 5 números inteiros do teclado, determine e imprima na tela o maior e
+		 * o menor dentre os números lidos bem como a sua diferença.
+		 */
 
 		Scanner reader = new Scanner(System.in);
 		
